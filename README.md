@@ -27,7 +27,7 @@ I'm a software developer with a strong passion for building impactful solutions.
 
 Feel free to reach out to me for collaboration, freelancing opportunities, or just a tech chat! You can find me on:
 
-- [LinkedIn]([https://www.linkedin.com/in/jose-arciniegas](https://www.linkedin.com/in/jose-sebastian-arciniegas-vargas-43a68b125/))  
+- [LinkedIn](https://www.linkedin.com/in/jose-sebastian-arciniegas-vargas-43a68b125/)  
 - [Email](mailto:jose.arciniegas.trabajos@gmail.com)
 
 ---
